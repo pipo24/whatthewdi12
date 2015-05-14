@@ -14,7 +14,7 @@ var WTF = (function() {
     var RE_QUOTE = /\"([^\"]+)\"/gi;
     var RE_JSON = /\.json$/i;
     var RE_KEY = /[a-z0-9_-]{32,}/i;
-    var DOCS_PATH = 'https://docs.google.com/spreadsheet/pub?key={key}&output=csv';
+    // var DOCS_PATH = 'https://docs.google.com/spreadsheet/pub?key={key}&output=csv';
 
     var templates;
     var responses;
@@ -224,9 +224,9 @@ var WTF = (function() {
                 1.  An object with `templates` and any amount of keys for word types, for example:
         
                     {
-                        templates: [ 'The @color @animal', 'The @animal was @color' ],
-                        animal: [ 'dog', 'cat', 'rabbit' ],
-                        color: [ 'red', 'green', 'blue' ],
+                        templates: [ 'The @name @phrase', 'The @phrase was @name' ],
+                        phrase: [ 'dog', 'cat', 'rabbit' ],
+                        name: [ 'red', 'green', 'blue' ],
                     }
 
                 2.  A path to a JSON file with the same structure as above (see `sample.json`)
