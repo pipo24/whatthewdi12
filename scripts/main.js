@@ -10,6 +10,7 @@ $(function() {
             "Thats what he said!",
             "Once upon a time in wdi12",
             "dat day in hipsterland",
+            "Standup time!",
         ],
         response: [
             "yeh bro i know it was",
@@ -66,7 +67,7 @@ $(function() {
             "Hassan... that was the other classes TA (with a beard)",
             "two words = much coding!",
             "big chill? big chill!",
-            "meeting?",
+            "meeting? meeting.",
             "mandatory homework: go to the pub!",
             "did i win the pint? wait i dont drink",
             "im not going to shave until the end of the course",
@@ -96,7 +97,10 @@ $(function() {
             "he grounded a plane after using the lavatory",
             "Mac Classic!",
             "Gerry and James - modern love story",
-            "",
+            "Did u get the Amazon confirmation code, no? go outside then.",
+            "note to james: Frustrated man charged by police after shooting his uncooperative computer",
+            "awesome nickname! not that awesome, awesome would be like @gerronosauras-rex",
+            "bundleeeeeee!",
         ]
     });
 
