@@ -21,8 +21,9 @@ $(function() {
         "Im crying under my snapback",
         ],
         template: [
-        "Was it @name who said? @phrase",
-        "Did @name mention this: @phrase",
+        "Was it @name who said? <br><br> @phrase",
+        "Did @name really say: <br><br> @phrase",
+        "Dat time when @name mentioned: <br><br> @phrase",
         ],
         name: [
         "Gerry",

@@ -8,20 +8,24 @@
 	<link rel="apple-touch-icon" href="images/custom_icon.png"/>
 	<link rel="shortcut icon" href="images/favicon.png"/>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-	<link rel="stylesheet" href="animate.min.css">
+	<link rel="stylesheet" href="styles/animate.css">
 	<link rel="stylesheet" href="styles/main.css" />
 	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 
-	<script type="text/javascript"> 
-		var totalCount = 4;
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			$('#generate').click(function(){
+				$('#generate').addClass('animated infinite jello');
+			});
+		});
+
+		var totalCount = 9;
 		function ChangeIt(){
 			var num = Math.ceil( Math.random() * totalCount );
 			document.body.style.backgroundImage = 'url(/images/bgimages/'+num+'.jpg)';
 			document.body.style.backgroundCover = "cover";
 		}
 	</script>
-
-	>>>>>>> 62aa5ebbb66c685434c02f599517ef490b384e78
 </head>
 <body>
 	<div id="wrapper">
@@ -37,16 +41,8 @@
 					</dl>
 				</noscript>
 			</div>
-			<div class="stuff"><a id="generate" href="#" title="Hit me again!"></a></div>
+			<div class="stuff animated slideInLeft"><a id="generate" href="#" title="Hit me again!"></a></div>
 		</article>
-		<aside>
-			<ul id="share">
-				<li id="share-twitter">
-					<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://whatthewdi12.com" data-count="horizontal" data-via="soulwire">Tweet</a>
-					<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-				</li>
-			</ul>
-		</aside>
 		<footer>
 			<div id="about">All organic <a href="http://www.opensource.org/" target="blank">Open Source</a></div>
 			<div id="credit">Built with <a href="https://github.com/soulwire/WTFEngine" title="An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites" target="_blank">WTF Engine</a></div>
@@ -60,7 +56,6 @@
 
 	<script type="text/javascript"> 
 		ChangeIt();
-		console.log(ChangeIt)
 	</script> 
 
 </body>

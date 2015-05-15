@@ -149,8 +149,6 @@ var WTF = (function() {
             type = item[ 0 ];
             text = item[ 1 ];
 
-            console.log( text, copy, copy[ text ] );
-
             part = randomItem( copy[ text ], true );
             idea = idea.replace( type, part );
 
@@ -163,8 +161,8 @@ var WTF = (function() {
         dom.generate.text( randomItem( responses ) );
         dom.output.html(
             '<dl>' +
-                '<dt class="headings">' + randomItem( headings ) + '</dt>' +
-                '<dd class="idea">' + idea + '</dd>' +
+                '<dt class="headings animated bounceInLeft">' + randomItem( headings ) + '</dt>' +
+                '<dd class="idea animated zoomInUp">' + idea + '</dd>' +
             '</dl>'
         );
 
