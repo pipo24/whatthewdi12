@@ -51,8 +51,9 @@ header h1 {
 
 .headings, .idea, .stuff {
 	color: black;
-	background: white;
-	background-opacity:  0.5;
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 10px;
+	border-radius: 10px;
 }
 
 .headings {
@@ -66,6 +67,9 @@ header h1 {
 
 .stuff {
 	text-align: right;
+	width: 400px;
+	margin-left: 258px;
+	padding: 20px;
 }
 
 /* classes i added */
