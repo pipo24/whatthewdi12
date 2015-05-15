@@ -10,7 +10,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	text-transform: uppercase;
 	height: 100%;
 	background: black;
 }
@@ -54,7 +53,10 @@ header h1 {
 
 .headings {
 	font-family: 'Pacifico', cursive;
-	text-transform: lowercase;
+}
+
+.idea {
+	text-transform: uppercase;
 }
 
 .stuff {
@@ -63,6 +65,7 @@ header h1 {
 	margin-left: 250px;
 	padding: 15px;
 	border: dotted black 4px;
+	text-transform: uppercase;
 }
 
 /* classes i added */
@@ -98,6 +101,7 @@ noscript {
 	text-decoration: none;
 	font-size: 30px;
 	color: #000;
+	text-transform: uppercase;
 }
 
 #generate:hover {

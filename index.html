@@ -19,7 +19,7 @@
 			});
 		});
 
-		var totalCount = 14;
+		var totalCount = 13;
 		function ChangeIt(){
 			var num = Math.ceil( Math.random() * totalCount );
 			document.body.style.backgroundImage = 'url(/images/bgimages/'+num+'.jpg)';
@@ -54,7 +54,12 @@
 	<script src="scripts/wtf.js"></script>
 	<script src="scripts/main.js"></script>
 
-	<script type="text/javascript"> 
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#generate').click(function(){
+				ChangeIt();
+			});
+		});
 		ChangeIt();
 	</script> 
 

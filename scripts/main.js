@@ -6,10 +6,10 @@ $(function() {
     WTF.init({
 
         heading: [
-        "Thats what she said!",
-        "Thats what he said!",
-        "Once upon a time in wdi12",
-        "dat day in hipsterland",
+        "Thats what SHE said!",
+        "Thats what HE said!",
+        "Once upon a time in WDI12...",
+        "Dat day in Hipsterland...",
         "Standup time!",
         ],
         response: [
