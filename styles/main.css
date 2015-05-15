@@ -8,10 +8,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	-- end reset
 */
 
-img {
-	background-size: 50%;
-}
-
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
@@ -51,7 +47,7 @@ header h1 {
 
 .headings, .idea, .stuff {
 	color: black;
-	background-color: rgba(255, 255, 255, 0.7);
+	background-color: rgba(255, 255, 255, 0.9);
 	padding: 10px;
 	border-radius: 10px;
 }
@@ -61,15 +57,12 @@ header h1 {
 	text-transform: lowercase;
 }
 
-.idea {
-
-}
-
 .stuff {
 	text-align: right;
 	width: 400px;
-	margin-left: 258px;
-	padding: 20px;
+	margin-left: 250px;
+	padding: 15px;
+	border: dotted black 4px;
 }
 
 /* classes i added */
@@ -103,7 +96,7 @@ noscript {
 
 #generate {
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 30px;
 	color: #000;
 }
 
