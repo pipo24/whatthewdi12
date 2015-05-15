@@ -41,7 +41,7 @@ $(function() {
         "Tyroneeeee"
         ],
         phrase: [
-        "The class is over here!",
+        "The board is over here!",
         "I stayed up until 4am trying to fix a bug",
         "couldn't sleep, went for a run at 3am",
         "i swear center align wasnt working for me last night",
@@ -93,6 +93,8 @@ $(function() {
         "brain explosion",
         "yes gerry! thats amazing gerry!",
         "did u submit ur homework? do a PR!",
+        "at least im hanging from a strawberry tree",
+        "at least im hanging from a strawberry tree",
         "at least im hanging from a strawberry tree",
         "he grounded a plane after using the lavatory",
         "Mac Classic!",
