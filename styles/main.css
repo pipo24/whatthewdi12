@@ -25,6 +25,7 @@ body {
 #wrapper {
 	width: 710px;
 	margin:  auto;
+	margin-top: 150px;
 }
 
 header, article {
