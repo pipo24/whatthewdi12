@@ -163,8 +163,8 @@ var WTF = (function() {
         dom.generate.text( randomItem( responses ) );
         dom.output.html(
             '<dl>' +
-                '<dt>' + randomItem( headings ) + '</dt>' +
-                '<dd>' + idea + '</dd>' +
+                '<dt class="headings">' + randomItem( headings ) + '</dt>' +
+                '<dd class="idea">' + idea + '</dd>' +
             '</dl>'
         );
 
