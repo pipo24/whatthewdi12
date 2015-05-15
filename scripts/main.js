@@ -104,6 +104,7 @@ $(function() {
         "note to james: Frustrated man charged by police after shooting his uncooperative computer",
         "awesome nickname! not that awesome, awesome would be like @gerronosauras-rex",
         "bundleeeeeee!",
+        "the more you know the more... whatever!",
         ]
     });
 });

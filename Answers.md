@@ -24,6 +24,7 @@ ALEX:
 "BOOM!"
 "Whaaaaat?"
 "Thats interesting..."
+"lets talk about the queen"
 
 JAMES:
 "Suns out leg guns out - that phrase..."
@@ -33,15 +34,15 @@ JAMES:
 "(snaps fingers in glee)"
 "(singing) When a man loves a woman..."
 "im not going to shave until the end of the course"
+"alright, its basically like this..."
 
 CHERYL:
 "awesome nickname! not that awesome, awesome would be like @gerronosauras-rex"
 "sorry im having sorry my breakfast sorry"
 "did i win the pint? wait i dont drink"
-
-CLASS:
-"I stayed up until 4am trying to fix a bug"
-"mta subway... death to ruby"
+"i just realised your surname was gotsell: one word. i thought it was a rap phrase i hadn't heard of yet"
+"im lost"
+"brain explosion"
 
 SPENCER:
 "couldn't sleep, went for a run at 3am"
@@ -51,9 +52,16 @@ HASSAN:
 
 TYRONE:
 "That wasnt porn... someone sent me a football video"
+"Gerry the project is up here!"
+"What the fuck is gerry doing here",
+"note to james: Frustrated man charged by police after shooting his uncooperative computer"
 
 ELENA:
 "two words = much coding!"
+"When in doubt: pizza!"
+"who invented rugby?"
+"rane? rain?"
+"at least im hanging from a strawberry tree"
 
 DANI:
 "I have an error!"
@@ -62,22 +70,12 @@ DANI:
 
 RANE:
 "is this bonus for free nandos?"
+"im hungry"
+"no homework? =D"
 
-
-"alright, its basically like this...",
-"Gerry the project is up here!",
-"When in doubt: pizza!",
-"What the fuck is gerry doing here",
-"/giphy ****",
-"i just realised your surname was gotsell: one word. i thought it was a rap phrase i hadn't heard of yet",
-"im hungry",
-"no homework? =D",
-"rane? rain?",
-"who invented rugby?",
-"duck debugging - never to be seen again",
-"lets talk about the queen",
-"im lost",
-"brain explosion",
-"at least im hanging from a strawberry tree",
-"Gerry and James - modern love story",
-"note to james: Frustrated man charged by police after shooting his uncooperative computer",
+CLASS:
+"I stayed up until 4am trying to fix a bug"
+"mta subway... death to ruby"
+"/giphy ****"
+"duck debugging - never to be seen again"
+"Gerry and James - modern love story"
