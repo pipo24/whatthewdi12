@@ -1,4 +1,4 @@
-#WDI Hackaton: :sunglasses::computer::sparkles: WhattheWDI :sunglasses::computer::sparkles:
+#WDI Hackaton:  WhattheWDI
 
 ##Preparation:
 
